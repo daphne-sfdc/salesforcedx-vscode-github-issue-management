@@ -13,7 +13,7 @@
     "shelljs": "0.8.5"
   },
   "devDependencies": {
-    "@types/chai": "4.3.3",
+    "@types/chai": "4.3.16",
     "@types/glob": "^7.2.0",
     "@types/mocha": "^2.2.38",
     "@types/node": "^18.11.9",
@@ -21,7 +21,7 @@
     "@types/sinon": "^2.3.7",
     "@typescript-eslint/eslint-plugin": "6.9.0",
     "@typescript-eslint/parser": "6.9.0",
-    "chai": "^4.0.2",
+    "chai": "^4.4.1",
     "decache": "^4.1.0",
     "eslint": "8.52.0",
     "eslint-config-prettier": "9.0.0",

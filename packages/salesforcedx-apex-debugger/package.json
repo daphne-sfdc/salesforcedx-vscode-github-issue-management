@@ -22,7 +22,7 @@
   "devDependencies": {
     "@salesforce/salesforcedx-test-utils-vscode": "60.13.0",
     "@types/async-lock": "0.0.20",
-    "@types/chai": "4.3.3",
+    "@types/chai": "4.3.16",
     "@types/jest": "^29.5.5",
     "@types/mocha": "^5",
     "@types/node": "^18.11.9",
@@ -31,7 +31,7 @@
     "@typescript-eslint/eslint-plugin": "6.9.0",
     "@typescript-eslint/parser": "6.9.0",
     "@vscode/debugadapter-testsupport": "1.65.0",
-    "chai": "^4.0.2",
+    "chai": "^4.4.1",
     "cross-env": "5.2.0",
     "eslint": "8.52.0",
     "eslint-config-prettier": "9.0.0",
