@@ -33,7 +33,7 @@
     "@salesforce/templates": "^60.1.2",
     "@salesforce/ts-types": "2.0.9",
     "@salesforce/vscode-service-provider": "1.0.4",
-    "adm-zip": "0.5.10",
+    "adm-zip": "0.5.12",
     "applicationinsights": "1.0.7",
     "glob": "^7.1.2",
     "rxjs": "^5.4.1",
