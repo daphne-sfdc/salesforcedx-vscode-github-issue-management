@@ -32,7 +32,7 @@
   ],
   "dependencies": {
     "@jsforce/jsforce-node": "3.2.0",
-    "@salesforce/apex-tmlanguage": "1.6.0",
+    "@salesforce/apex-tmlanguage": "1.8.0",
     "@salesforce/core": "7.3.1",
     "@salesforce/soql-builder-ui": "0.2.0",
     "@salesforce/soql-data-view": "0.1.0",
@@ -138,7 +138,7 @@
       ],
       "dependencies": {
         "applicationinsights": "1.0.7",
-        "@salesforce/apex-tmlanguage": "1.6.0",
+        "@salesforce/apex-tmlanguage": "1.8.0",
         "@salesforce/core": "7.3.1",
         "@salesforce/source-tracking": "6.0.4",
         "shelljs": "0.8.5",
